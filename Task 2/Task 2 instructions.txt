@@ -1,0 +1,3 @@
+This application can be run by opening task2.java and compiling and running the file in the IDE or it can be run using Java Task2 in the command prompt
+The controls for Car 1 are the WASD keys, W- accelerate, A- turn left, S - Reverse and D - turn right.
+The controls for Car 2 are the directional keys, up - accelerate, left - turn left, down - Reverse and right - turn right.
