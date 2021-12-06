@@ -1,0 +1,2 @@
+This application can be run by compiling and runnning the program in the IDE.
+or it can be run using Java Task1 in the command prompt
